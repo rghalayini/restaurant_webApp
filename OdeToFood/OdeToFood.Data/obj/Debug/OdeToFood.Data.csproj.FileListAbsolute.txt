@@ -1,0 +1,5 @@
+C:\Users\remyg\Programming\C#\MVC\OdeToFood\OdeToFood\OdeToFood.Data\bin\Debug\OdeToFood.Data.dll
+C:\Users\remyg\Programming\C#\MVC\OdeToFood\OdeToFood\OdeToFood.Data\bin\Debug\OdeToFood.Data.pdb
+C:\Users\remyg\Programming\C#\MVC\OdeToFood\OdeToFood\OdeToFood.Data\obj\Debug\OdeToFood.Data.csproj.CoreCompileInputs.cache
+C:\Users\remyg\Programming\C#\MVC\OdeToFood\OdeToFood\OdeToFood.Data\obj\Debug\OdeToFood.Data.dll
+C:\Users\remyg\Programming\C#\MVC\OdeToFood\OdeToFood\OdeToFood.Data\obj\Debug\OdeToFood.Data.pdb

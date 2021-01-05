@@ -77,3 +77,5 @@ C:\Users\remyg\Programming\C#\MVC\OdeToFood\OdeToFood\OdeToFood.Web\obj\Debug\Od
 C:\Users\remyg\Programming\C#\MVC\OdeToFood\OdeToFood\OdeToFood.Web\obj\Debug\OdeToFood.Web.csproj.CopyComplete
 C:\Users\remyg\Programming\C#\MVC\OdeToFood\OdeToFood\OdeToFood.Web\obj\Debug\OdeToFood.Web.dll
 C:\Users\remyg\Programming\C#\MVC\OdeToFood\OdeToFood\OdeToFood.Web\obj\Debug\OdeToFood.Web.pdb
+C:\Users\remyg\Programming\C#\MVC\OdeToFood\OdeToFood\OdeToFood.Web\bin\OdeToFood.Data.dll
+C:\Users\remyg\Programming\C#\MVC\OdeToFood\OdeToFood\OdeToFood.Web\bin\OdeToFood.Data.pdb
